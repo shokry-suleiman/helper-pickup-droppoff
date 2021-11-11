@@ -1,0 +1,114 @@
+{
+  "createPickupAndDropoff": {
+    "pickupCordinates": {
+      "addressId": "42343"
+    },
+    "dropoffCordinates": {
+      "city": "Second New Cairo",
+      "country": "Egypt",
+      "labels": [
+        {
+          "langCode": "ar",
+          "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+        },
+        {
+          "langCode": "en",
+          "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+        }
+      ],
+      "lati": "30.0462468",
+      "long": "31.4331447"
+    },
+    "serviceType": "4",
+    "note": "please bring it fast as you can"
+  },
+  "reviewOrder": {
+    "pickupCordinates": {
+      "city": "Second New Cairo",
+      "country": "Egypt",
+      "labels": [
+        {
+          "langCode": "ar",
+          "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+        },
+        {
+          "langCode": "en",
+          "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+        }
+      ],
+      "lati": "30.0462468",
+      "long": "31.4331447"
+    },
+    "dropoffCordinates": {
+      "city": "Second New Cairo",
+      "country": "Egypt",
+      "labels": [
+        {
+          "langCode": "ar",
+          "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+        },
+        {
+          "langCode": "en",
+          "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+        }
+      ],
+      "lati": "30.0462468",
+      "long": "31.4331447"
+    },
+    "notes": "please bring it fast as you can",
+    "totalPrice": "25.05"
+  },
+  "orderDetails": {
+    "order": {
+      "couponCode": null,
+      "createdOn": "2021-11-10T15:00:27.4074182",
+      "customerId": 490,
+      "deliveryType": 4,
+      "discount": 0,
+      "driverId": 42,
+      "entityId": 138,
+      "hasArrived": true,
+      "id": 499,
+      "paymenttype": null,
+      "serviceFeePrice": 122,
+      "status": 1,
+      "totalPrice": 122
+    },
+    "driverDetails": "null",
+    "orderDetails": {
+      "pickupCordinates": {
+        "city": "Second New Cairo",
+        "country": "Egypt",
+        "labels": [
+          {
+            "langCode": "ar",
+            "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+          },
+          {
+            "langCode": "en",
+            "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+          }
+        ],
+        "lati": "30.0462468",
+        "long": "31.4331447"
+      },
+      "dropoffCordinates": {
+        "city": "Second New Cairo",
+        "country": "Egypt",
+        "labels": [
+          {
+            "langCode": "ar",
+            "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+          },
+          {
+            "langCode": "en",
+            "label": "التحرير، Second New Cairo, Cairo Governorate, Egypt"
+          }
+        ],
+        "lati": "30.0462468",
+        "long": "31.4331447"
+      },
+      "notes": "please bring it fast as you can"
+    }
+  }
+}

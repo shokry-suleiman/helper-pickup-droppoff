@@ -1,0 +1,12 @@
+{
+  "name": "helper-pickup-drop",
+  "version": "1.0.0",
+  "description": "mock helper pickup and drop service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "shoukry suleiman",
+  "license": "ISC"
+}
